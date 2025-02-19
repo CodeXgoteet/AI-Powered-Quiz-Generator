@@ -41,7 +41,6 @@ Quiz.ai also fits into the present online education landscape, in which the majo
 ## How to Get Started?
 
 [![Requirements Up To Date](https://img.shields.io/badge/requirements-up%20to%20date-brightgreen)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/blob/webapp/requirements.txt)
-[![Python](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/)
 
 
 ### Setup
