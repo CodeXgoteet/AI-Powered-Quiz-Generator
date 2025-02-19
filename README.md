@@ -9,12 +9,15 @@ This is a smart Quiz Generator that generates a dynamic quiz from any uploaded t
 - enables the **enrichment of the teaching** process, adapt learning to student knowledge and needs, as well as drill and practice exercises
 - presents an _automatic mechanism_ to assemble exams or to adaptively select questions from a question bank.
 
+
 ## Theme
 
 Our concept idea revolves around security and productivity.  We are decreasing manual efforts, improving teacher productivity.  This will help to remove the distraction of question making and reduce the labor required to go through the material to develop questions, allowing teachers to focus on other important tasks.
 
 Quiz.ai also fits into the present online education landscape, in which the majority of classes take place on online platforms such as Google Meet and Zoom.  We provide students with brief multiple-choice questions to help them revise and memorize subjects more effectively.
 
+#Flow Chart
+![Flow Chart](https://github.com/user-attachments/assets/972c4df4-277c-4b15-8c11-b03d1c4435b6)
 
 ## Technology Stack:
 
@@ -32,8 +35,7 @@ Quiz.ai also fits into the present online education landscape, in which the majo
 
 [![Requirements Up To Date](https://img.shields.io/badge/requirements-up%20to%20date-brightgreen)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/blob/webapp/requirements.txt)
 
-###Flow Chart
->![Flow Chart](https://github.com/user-attachments/assets/972c4df4-277c-4b15-8c11-b03d1c4435b6)
+
 
 
 ### Setup
