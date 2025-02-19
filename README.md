@@ -28,7 +28,7 @@ Quiz.ai also fits into the present online education landscape, in which the majo
 
 
 ## WorkFlow
-![workflow](https://files.oaiusercontent.com/file-5tk8mMYX6yGNVKMf31YagN?se=2025-02-19T20%3A18%3A52Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D4db568fe-c4a2-45c8-852f-3422608c8c63.webp&sig=Y%2BcIHT9mtTA/h7hABnhQiCG2796V3PsEE%2BtwJUeEbrs%3D)
+![workflow]("C:\Users\gotee\Downloads\DALL·E 2025-02-20 01.55.04 - A modern infographic showing the automated question generation process. It includes steps such as text preprocessing, sentence selection, key term ide.webp")
 
 
 
