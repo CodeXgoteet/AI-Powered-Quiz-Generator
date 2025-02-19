@@ -2,15 +2,6 @@
 
 This is a smart Quiz Generator that generates a dynamic quiz from any uploaded text/PDF document using NLP. This can be used for self-analysis, question paper generation, and evaluation, thus reducing human effort.
 
-[![Forks](https://img.shields.io/github/forks/geekquad/quiz.ai?style=social)](https://github.com/geekquad/quiz.ai/network/members)
-[![Stars](https://img.shields.io/github/stars/geekquad/quiz.ai?style=social)](https://github.com/geekquad/quiz.ai/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/geekquad/quiz.ai?style=social)](https://github.com/geekquad/quiz.ai/watchers)
-[![PRs](https://img.shields.io/github/issues-pr/geekquad/quiz.ai)](https://github.com/geekquad/quiz.ai/pulls)
-[![Issues](https://img.shields.io/github/issues/geekquad/quiz.ai)](https://github.com/geekquad/quiz.ai/issues)
-[![License](https://img.shields.io/github/license/geekquad/quiz.ai)](https://github.com/geekquad/quiz.ai/blob/master/LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/PragatiVerma18/Fantastic-Falcons-1.0/graphs/commit-activity)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/)
-
 ## Features
 
 - implements automatic question generation _(AQG) techniques_
