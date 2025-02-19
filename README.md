@@ -5,7 +5,6 @@ This is a smart Quiz Generator that generates a dynamic quiz from any uploaded t
 ## Features
 
 - implements automatic question generation _(AQG) techniques_
-  > **Automatic question generation (AQG)** is concerned with the construction of algorithms for producing questions from knowledge sources, which can be either structured (e.g. knowledge bases (KBs) or unstructured (e.g. text))
 - helps in **resource saving**(time, money and human effort)
 - enables the **enrichment of the teaching** process, adapt learning to student knowledge and needs, as well as drill and practice exercises
 - presents an _automatic mechanism_ to assemble exams or to adaptively select questions from a question bank.
