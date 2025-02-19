@@ -40,7 +40,7 @@ Quiz.ai also fits into the present online education landscape, in which the majo
 
 ```
 $ git clone https://github.com/CodeXgoteet/AI-Powered-Quiz-Generator
-$ cd quiz.ai
+$ cd AI-Powered-Quiz-Generator
 ```
 
 - Setup Virtual environment
