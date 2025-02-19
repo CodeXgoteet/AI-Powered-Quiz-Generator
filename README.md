@@ -32,6 +32,9 @@ Quiz.ai also fits into the present online education landscape, in which the majo
 
 [![Requirements Up To Date](https://img.shields.io/badge/requirements-up%20to%20date-brightgreen)](https://github.com/PragatiVerma18/Fantastic-Falcons-1.0/blob/webapp/requirements.txt)
 
+###Flow Chart
+>![Flow Chart](https://github.com/user-attachments/assets/972c4df4-277c-4b15-8c11-b03d1c4435b6)
+
 
 ### Setup
 
