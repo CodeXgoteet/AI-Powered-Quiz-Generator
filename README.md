@@ -16,7 +16,7 @@ Our concept idea revolves around security and productivity.  We are decreasing m
 
 Quiz.ai also fits into the present online education landscape, in which the majority of classes take place on online platforms such as Google Meet and Zoom.  We provide students with brief multiple-choice questions to help them revise and memorize subjects more effectively.
 
-#Flow Chart
+## Flow Chart
 ![Flow Chart](https://github.com/user-attachments/assets/972c4df4-277c-4b15-8c11-b03d1c4435b6)
 
 ## Technology Stack:
