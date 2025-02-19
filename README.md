@@ -26,13 +26,6 @@ Our concept idea revolves around security and productivity.  We are decreasing m
 Quiz.ai also fits into the present online education landscape, in which the majority of classes take place on online platforms such as Google Meet and Zoom.  We provide students with brief multiple-choice questions to help them revise and memorize subjects more effectively.
 
 
-
-## WorkFlow
-![workflow]("C:\Users\gotee\Downloads\DALL·E 2025-02-20 01.55.04 - A modern infographic showing the automated question generation process. It includes steps such as text preprocessing, sentence selection, key term ide.webp")
-
-
-
-
 ## Technology Stack:
 
 
