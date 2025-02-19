@@ -39,7 +39,7 @@ Quiz.ai also fits into the present online education landscape, in which the majo
 - Fork and Clone the repo using
 
 ```
-$ git clone [https://github.com/geekquad/quiz.ai.git](https://github.com/CodeXgoteet/AI-Powered-Quiz-Generator)
+$ git clone https://github.com/CodeXgoteet/AI-Powered-Quiz-Generator
 $ cd quiz.ai
 ```
 
